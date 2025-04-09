@@ -4,7 +4,11 @@
 
 int main() {
 
-	printf("Hello World!");
+	printf("Hello World!\n");
+
+	printf("¾ßÈ£!");
+
+	
 
 	return 0;
 }
